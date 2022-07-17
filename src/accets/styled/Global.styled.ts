@@ -15,6 +15,7 @@ export const GlobalStyled = createGlobalStyle`
         --color-white: #fff;
         --color-black: #000000; 
         --color-grey: #757375;
+        --color-orange: orange;
 
         //typography
         --family: 'Quicksand', sans-serif;

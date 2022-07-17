@@ -5,6 +5,7 @@ export const HeaderEl = styled.header`
    min-height: 60px;
    background-color: var(--color-grey);
    padding: 20px 0;
+   margin-bottom: 10px;
 `
 
 export const HeaderNav = styled.nav`
